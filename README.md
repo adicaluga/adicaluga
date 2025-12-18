@@ -1,4 +1,18 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com
+      ?font=Fira+Code
+      &size=26
+      &pause=1200
+      &center=true
+      &vCenter=true
+      &width=900
+      &lines=Second-year+Software+Engineering+(Co-op);University+of+Guelph;Full-stack+%7C+Backend+%7C+Systems"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
 <!--
 **adicaluga/adicaluga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
