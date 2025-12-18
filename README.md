@@ -1,18 +1,21 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com
-      ?font=Fira+Code
-      &size=26
-      &pause=1200
-      &center=true
-      &vCenter=true
-      &width=900
-      &lines=Second-year+Software+Engineering+(Co-op);University+of+Guelph;Full-stack+%7C+Backend+%7C+Systems"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
+## Hi, I’m Adrian Calugarescu 👋
+
+🎓 Second-year Software Engineering (Co-op) student at the University of Guelph  
+💻 Interested in full-stack development, backend systems, and software design  
+
+### 🛠 Tech
+- **Languages:** C, C++, Java, Python, JavaScript
+- **Frontend:** React, HTML, CSS
+- **Backend:** Node.js, Express
+- **Databases:** PostgreSQL, Prisma
+- **Tools:** Git, Linux
+
+### 🚀 Projects
+- **LandMarkr** – Full-stack location discovery app (React + Express + PostgreSQL)
+- **Media Analytics Library** – Java generics, repositories, filters
+- **Systems Programming** – C & Motorola 68000 assembly labs and games
+
+📫 **Contact:** LinkedIn | Email
 
 <!--
 **adicaluga/adicaluga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
