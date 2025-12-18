@@ -13,7 +13,6 @@
 ### 🚀 Projects
 - **LandMarkr** – Full-stack location discovery app (React + Express + PostgreSQL)
 - **Media Analytics Library** – Java generics, repositories, filters
-- **Systems Programming** – C & Motorola 68000 assembly labs and games
 
 📫 **Contact:** LinkedIn | Email
 
