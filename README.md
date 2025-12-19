@@ -5,14 +5,14 @@
 
 ### 🛠 Tech
 - **Languages:** C, C++, Java, Python, JavaScript
-- **Frontend:** React, HTML, CSS
+- **Frontend:** Vite, React, HTML, CSS
 - **Backend:** Node.js, Express
 - **Databases:** PostgreSQL, Prisma
 - **Tools:** Git, Linux
 
 ### 🚀 Projects
 - **LandMarkr** – Full-stack location discovery app (React + Express + PostgreSQL)
-- **Media Analytics Library** – Java generics, repositories, filters
+
 
 📫 **Contact:** LinkedIn | Email
 
